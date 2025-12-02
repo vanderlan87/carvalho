@@ -1,5 +1,14 @@
-lista_teste = [1,2,3,4,5,6,7,8,9,10]
+"nome1" = "vanderlan"
+"idade" = 38
+"cidade" = "rj"
+"profissao" = "desenvolvedor"
 
-tupla_teste = {1,2,3,4,5,6,7,8,9,10}
+"nome2" = "talita    " \
+"idade" = 38
+"cidade" = "rj" \
+"profissao" = "dentista"
 
-lista_teste.append(11)
+print("nome1:", str(nome1))
+print("nome2:", str(nome2)
+      
+print(nome1 + " e " + nome2 + " se amam")   
